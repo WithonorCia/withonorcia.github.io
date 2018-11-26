@@ -1,25 +1,25 @@
 # Withonor
 
-## More than just a company we're a support network.
+## Más que tan solo una empresa somos acceso a una red de soporte. La compañía que te hace compañía.
 
-### We all have special talents.  
-Withonor for individuals is the team who will help and guide you **in person**, insider people with access to the best positions where your talent can shine.  
-We'll be celebrating your new job sooner than you think. After that, the first meeting of Pro service is free. Don't worry, other people pay us to get you a job.  
-<div class='clearfix actionCall'><a href='http://registro.withonor.com' class='button'>:beer: So let's have a drink.</a></div>  
+### Todos tenemos talentos especiales.  
+Withonor para individuos es el equipo que te ayudará y guiará **en persona**, gente interna con acceso a los mejores puestos donde tu talento puede brillar.  
+Estaremos celebrando tu nuevo trabajo más pronto de lo que piensas. Después de eso, la primer junta de servicio Pro es gratis. No te preocupes, otras personas nos pagan para conseguirte un trabajo.  
+<div class='clearfix actionCall'><a href='http://registro.withonor.com' class='button'>:beer: Pues te invito un trago.</a></div>  
 
-### We're all in this together.  
-Withonor for businesses is your HR ally in a world of rivalry. We **build** effective teams and provide assistance restructuring organizations. The future doesn't wait, we can go as fast as you.  
-We'll have fun winning this and many races, just go for it.  
-<div class='clearfix actionCall'><a href='http://socios.withonor.com' class='button'>:v: Let's get in touch.</a></div>  
+### Todos estamos en esto juntos.  
+Withonor para negocios es tu aliado de RH en un mundo de rivalidad. Nosotros **construimos** equipos efectivos y proveemos asistencia restructurando organizaciones. El futro no espera, podemos avanzar con la misma prisa que tú.  
+Nos divertiremos ganando esta y muchas carreras, hagámoslo.  
+<div class='clearfix actionCall'><a href='http://socios.withonor.com' class='button'>:v: Ponte en contacto.</a></div>  
 
-### We all have PROtential.  
-Withonor for professionals is the missing element in your work circles. We **listen**, investigate and deliver frank insight and advice for your career choices.  
-Plus, we make our resources available for members: contacts, expertise, lawyers, knowledge; take a desk, borrow the projector, use the silly printer, whatever reasonable thing you may need. Take a deep breath and a leap of faith, I'll make sure you land safe.  
-<div class='clearfix actionCall'><a href='http://principal.withonor.com' class='button'>:pizza: Let's grab lunch.</a></div>  
+### Todos tenemos PROtencial.  
+Withonor para profesionales es el elemento que falta en tus círculos de trabajo. Nosotros **escuchamos**, investigamos y entregamos perspicacias y consejos francos para tus elecciones de carrera.  
+Además, ponemos nuestros recursos a disposición de los miembros: contactos, experiencia, abogados, conocimiento; agarra un escritorio, toma prestado el proyector, usa la tonta impresora, cualquier cosa razonable que puedas necesitar. Toma un respiro y un salto de fe, yo me aseguraré de que aterrices sano y salvo.  
+<div class='clearfix actionCall'><a href='http://principal.withonor.com' class='button'>:pizza: Vamos a almorzar.</a></div>  
 
-#### This is an MVP launching site.
--  Make extra effort. There's a limited amount of clients we can serve, you can be part of this now or _wheNever_ you decide to stop wasting time.  
--  We can save you from the plagues crawling inside your company, those who won't hesitate to take over command and kick you out, you've heard of them: silence, mediocrity and many others.  
--  It's worth noting that we take an 'open kimono' approach to doing business, **extraordinary** success will come swifter for those who understand what it means and adjust their ways.  
+#### Este es un sitio de lanzamiento MVP.
+-  Haz un esfuerzo extra. Hay una cantidad limitada de clientes que podemos servir, puedes ser parte de esto ahora o demasiado tarde que decidas dejar de perder el tiempo.  
+-  Podemos salvarte de las plagas merodeando a rastras dentro de tu compañía, esos que no dudarán en robarte el control y explusarte de patada, has oído sobre ellos: el silencio, la mediocridad, y muchos _otros_.  
+-  Vale señalar que nosotros tomamos una postura 'open kimono' al hacer negocios, éxito **extaordinario** llegará con más fluidez para aquellos que entiendan lo que significa y ajusten sus formas.  
 
-:fire: Be proud of your decisions, bring it on and hire Withonor **today**.  
+:fire: Enorgullécete de tus decisiones, actívate y contrata Withonor **hoy**.  

@@ -1,6 +1,8 @@
 # Withonor
 
-## Más que tan solo una empresa somos acceso a una red de soporte. La compañía que te hace compañía.
+<p id='langSwitch'>Go to <a href='https://withonor.com'>English version :scroll:</a></p>  
+
+## Más que tan solo una empresa somos acceso a una red de soporte; la compañía que te hace compañía.  
 
 ### Todos tenemos talentos especiales.  
 Withonor para individuos es el equipo que te ayudará y guiará **en persona**, gente interna con acceso a los mejores puestos donde tu talento puede brillar.  

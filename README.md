@@ -1,7 +1,7 @@
 # Withonor
 
-<p id='langSwitch'>Go to <a href='https://withonor.com'>See the English version :page_facing_up:</a></p>  
-<p id='blogSwitchExt'>O repasa <a href='https://apuntes.withonor.com' target='_blank'>nuestros apuntes :scroll:</a></p>  
+<p id='altContext'>Go to <a class='langSwitch' href='https://withonor.com'>English version :page_facing_up:</a><br />  
+O repasa <a class='blogSwitchExt' href='https://apuntes.withonor.com' target='_blank'>nuestros apuntes :scroll:</a></p>  
 
 ## Más que una empresa somos acceso a una red de soporte; la compañía que te hace compañía.  
 

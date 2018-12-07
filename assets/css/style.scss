@@ -34,11 +34,12 @@ a.button {
 #main_content > h1 {
  display: none;
 }
-#langSwitch {
+#langSwitch,
+#blogSwitchExt {
  text-align: right;
-}
-#langSwitch > a {
- color: currentColor;
+ a {
+  color: currentColor;
+ }
 }
 
 @media all and (min-width: 551px) {
